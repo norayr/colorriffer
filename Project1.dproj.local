@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/09 04:44:57.000.906,=C:\Users\noch\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/09 04:47:34.000.820,C:\src\lut\Unit1.pas=C:\Users\noch\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/09 04:47:34.000.820,C:\src\lut\Unit1.fmx=C:\Users\noch\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/04/09 04:47:37.000.992,C:\src\lut\Project1.dproj=C:\Users\noch\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/04/09 16:11:58.000.093,C:\src\lut2\Project1.dproj=C:\src\lut\Project1.dproj</Transaction>
+    <Transaction>2024/04/09 16:12:20.000.250,C:\src\lut\Project1.dproj=C:\src\lut2\Project1.dproj</Transaction>
+    <Transaction>2024/04/20 11:46:30.219,=C:\tmp\lut\Unit2.pas</Transaction>
+    <Transaction>2024/04/20 11:48:06.078,C:\tmp\lut\haldclut.pas=C:\tmp\lut\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
